@@ -2,3 +2,7 @@ baseURL: https://example.org/j
 locale: en-us
 title: My New Hugo Project
 theme: ["PaperMod"]
+
+caches:
+  images:
+    dir: :cacheDir/images
