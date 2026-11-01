@@ -4,4 +4,4 @@ draft: false
 title: 'My First Post'
 ---
 
-Hi I am Lucas.
+Hi I am Lucas. I do maths at Oxford, this is a personal blog for me to record some of my experience with my degree, as well as my life in general. 
